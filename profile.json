@@ -1,0 +1,36 @@
+{
+  "person": {
+    "info": {
+      "nameEn": "Kamal Hossain",
+      "nameBn": "কামাল হোসেন",
+      "father": {
+        "fatherNameEn": "Jamal Hossain",
+        "fatherNameBn": "জামাল হোসেন"
+      },
+      "mother": {
+        "motherNameEn": "Ayesha Khatun",
+        "motherNameBn": "আয়েশা খাতুন"
+      },
+      "spouse": {
+        "spouseNameEn": "Naznin Akter",
+        "spouseNameBn": "নাজনীন আক্তার"
+      },
+      "contact": {
+        "email": "kamal.hossain@example.com",
+        "phone": "01987654321"
+      },
+      "id": {
+        "nationalId": "2983746109",
+        "nationalIdScan": "891237612OL739d1c4e5678.jpg"
+      },
+      "dob": "1985-04-10",
+      "bloodGroup": "O-",
+      "gender": "Male",
+      "images": {
+        "profileImage": "https://example.com/images/891237612OL739d1c4e5678.jpg",
+        "profileImageUrl": "https://example.com/images/891237612OL739d1c4e5678.jpg",
+        "nationalIdScanUrl": "https://example.com/images/891237612OL739d1c4e5678.jpg"
+      }
+    }
+  }
+    }
